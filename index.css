@@ -1,0 +1,40 @@
+.saree-form {
+  width: 300px;
+  margin: 20px auto;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background: #f9f9f9;
+  font-family: Arial, sans-serif;
+}
+
+.saree-form label {
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.saree-form input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.saree-form button {
+  margin-top: 15px;
+  padding: 10px;
+  width: 100%;
+  background: #4CAF50;
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.saree-form button:hover {
+  background: #45a049;
+}
